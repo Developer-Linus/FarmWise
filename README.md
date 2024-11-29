@@ -1,6 +1,6 @@
 # FarmWise - AI-Powered Agricultural Assistant
 
-FarmWise is an AI-powered chatbot designed to provide tailored agricultural advice to farmers, helping them make informed decisions, improve productivity, and adopt sustainable farming practices. The app is specifically designed to address the challenges faced by smallholder farmers in Africa, offering affordable and accessible solutions.
+FarmWise is an AI-powered chatbot designed to provide tailored agricultural advice to farmers, helping them make informed decisions, improve productivity, and adopt sustainable farming practices. The app is specifically designed to address the challenges faced by smallholder farmers in Kenya, offering affordable and accessible solutions.
 
 ---
 
