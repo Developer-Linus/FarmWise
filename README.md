@@ -48,13 +48,15 @@ pip install -r requirements.txt
 ```
 3. **Set Up the Database**:
    Initialize the SQLite database for storing user data and chatbot responses:
-   bash
+```bash
 python setup_database.py
+```
 4. **Run the Application**:
    Start the Flask server:
-   bash
+```bash
 python app.py
    The app will be available at `http://127.0.0.1:5000`.
+```
 
 ---
 
