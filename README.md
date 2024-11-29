@@ -39,9 +39,11 @@ Follow these steps to set up the FarmWise app on your local machine:
 1. **Clone the Repository**:
 Open your Git bash or terminal
 git clone https://github.com/Developer-Linus/FarmWise.git
+```bash
 cd FarmWise
+```
 
-2. **Install Dependencies**:
+3. **Install Dependencies**:
    Use `pip` to install the required Python libraries:
 ```bash
 pip install -r requirements.txt
