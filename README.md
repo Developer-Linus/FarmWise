@@ -38,12 +38,12 @@ Follow these steps to set up the FarmWise app on your local machine:
 
 1. **Clone the Repository**:
 Open your Git bash or terminal
-git clone https://github.com/your-username/FarmWise.git
+git clone https://github.com/Developer-Linus/FarmWise.git
 cd FarmWise
 
 2. **Install Dependencies**:
    Use `pip` to install the required Python libraries:
-   `bash
+```bash
 pip install -r requirements.txt
 3. **Set Up the Database**:
    Initialize the SQLite database for storing user data and chatbot responses:
