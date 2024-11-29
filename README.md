@@ -58,16 +58,17 @@ python app.py
 ---
 
 ## Project Structure
-FarmWise/
+```FarmWise/
 ├── app.py                 # Main Flask application
 ├── chatbot/               # Chatbot logic and AI integration
-│   ├── init.py
+│   ├── __init__.py
 │   ├── train.py           # Training scripts for the chatbot
 ├── static/                # Static files (CSS, JavaScript, images)
 ├── templates/             # HTML templates for the frontend
 ├── database.sqlite3       # SQLite database
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
+```
 
 ---
 
