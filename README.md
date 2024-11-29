@@ -45,6 +45,7 @@ cd FarmWise
    Use `pip` to install the required Python libraries:
 ```bash
 pip install -r requirements.txt
+```
 3. **Set Up the Database**:
    Initialize the SQLite database for storing user data and chatbot responses:
    bash
