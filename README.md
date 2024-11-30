@@ -65,7 +65,8 @@ The app will be available at `http://127.0.0.1:5000`.
 ---
 
 ## Project Structure
-```FarmWise/
+```
+FarmWise/
 ├── app.py                 # Main Flask application
 ├── chatbot/               # Chatbot logic and AI integration
 │   ├── __init__.py
