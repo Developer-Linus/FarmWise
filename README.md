@@ -31,8 +31,7 @@ Follow these steps to set up the FarmWise app on your local machine:
 ### Prerequisites
 - Python 3.8 or higher
 - Flask
-- ChatterBot
-- SQLite (for database management)
+- nltk
 
 ### Installation Steps
 
@@ -73,7 +72,7 @@ FarmWise/
 │   ├── train.py           # Training scripts for the chatbot
 ├── static/                # Static files (CSS, JavaScript, images)
 ├── templates/             # HTML templates for the frontend
-├── database.sqlite3       # SQLite database
+├── intents.json       
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
 ```
