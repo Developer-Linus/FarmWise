@@ -1,0 +1,76 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "keywords": ["hello", "hi", "greetings", "what's up", "how are you"],
+        "responses": [
+          "Hello! How can I assist you with farming today?",
+          "Hi there! What farming advice do you need?",
+          "Greetings! Let me know how I can help you."
+        ]
+      },
+      {
+        "tag": "crop_management",
+        "keywords": ["best crops", "crop rotation", "what to plant", "crop care"],
+        "responses": [
+          "For crop rotation, consider alternating cereals like maize with legumes like beans.",
+          "Ensure proper spacing when planting to prevent overcrowding and disease.",
+          "Water your crops early in the morning or late in the evening to minimize evaporation."
+        ]
+      },
+      {
+        "tag": "pest_control",
+        "keywords": ["pests", "insects", "pest control", "diseases", "caterpillars"],
+        "responses": [
+          "To control pests naturally, consider using neem oil or planting pest-repelling crops like marigolds.",
+          "Inspect your crops regularly for signs of pests and take immediate action.",
+          "Practice crop rotation to reduce the buildup of pest populations."
+        ]
+      },
+      {
+        "tag": "fertilizer_usage",
+        "keywords": ["fertilizer", "organic manure", "compost", "fertilizer application"],
+        "responses": [
+          "Use compost or well-rotted manure to enrich your soil with organic matter.",
+          "Apply fertilizer at the base of the plant and avoid contact with the leaves.",
+          "For maize, apply nitrogen-rich fertilizers like CAN during top-dressing."
+        ]
+      },
+      {
+        "tag": "weather_tips",
+        "keywords": ["rain", "drought", "weather forecast", "irrigation", "dry season"],
+        "responses": [
+          "Always check the weather forecast before planting or applying pesticides.",
+          "During dry seasons, consider using drip irrigation to conserve water.",
+          "Plant drought-resistant crops like sorghum and millet during dry periods."
+        ]
+      },
+      {
+        "tag": "soil_health",
+        "keywords": ["soil testing", "soil health", "acidic soil", "soil nutrients"],
+        "responses": [
+          "Test your soil regularly to know its nutrient requirements.",
+          "If your soil is acidic, consider applying lime to balance the pH.",
+          "Plant cover crops like clover to protect the soil and add organic matter."
+        ]
+      },
+      {
+        "tag": "market_prices",
+        "keywords": ["market", "prices", "selling crops", "crop prices"],
+        "responses": [
+          "Always check local market trends before selling your produce.",
+          "Form cooperatives with other farmers to negotiate better prices.",
+          "Consider value addition like drying or processing your produce for better returns."
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "keywords": ["bye", "goodbye", "see you", "talk later"],
+        "responses": [
+          "Goodbye! I hope my advice was helpful. Have a great day!",
+          "See you! Let me know if you have more farming questions.",
+          "Bye! Best of luck with your farming activities."
+        ]
+      }
+    ]
+  }  
